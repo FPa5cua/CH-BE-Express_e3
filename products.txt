@@ -1,0 +1,1 @@
+[{"name":"Factor 02 VAM","price":3500,"id":1},{"name":"Factor 02","price":2300,"id":2},{"name":"Factor OSTRO","price":2100,"id":3},{"name":"Factor OSTRO VAM","price":3100,"id":4},{"name":"Factor ONE","price":2500,"id":5}]
